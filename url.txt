@@ -1,0 +1,3 @@
+backend = https://evita-batch11-backend.herokuapp.com/
+frontend = https://evita-batch11-frontend.herokuapp.com/
+dataset = https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
